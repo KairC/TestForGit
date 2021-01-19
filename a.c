@@ -1,5 +1,1 @@
-apple
-banana
-cat
-dog
-egg
+apple banana cat dog egg fish
